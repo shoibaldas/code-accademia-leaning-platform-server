@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "01",
+        "picture": "http://placehold.it/32x32",
+        "name": "html/CSS",
+        "info": "Ut consequat sunt esse nostrud irure dolore consectetur occaecat exercitation. Labore ea dolor velit cupidatat amet eu consequat est eiusmod eu. Magna dolor sit mollit deserunt ea exercitation duis Lorem sit est. Qui laboris aute occaecat nisi cillum nostrud adipisicing laboris ad occaecat ipsum ullamco voluptate eiusmod. Pariatur pariatur non dolore do magna nostrud cupidatat sint dolor enim dolore. Nisi ut officia minim ex incididunt do velit.\r\n",
+        "time": "10 hr",
+        "views": 42,
+        "icon": "fa-solid fa-file-code",
+        "color": "text-sky-500"
+    },
+    {
+        "_id": "02",
+        "picture": "http://placehold.it/32x32",
+        "name": "Javascript",
+        "info": "Ad sunt reprehenderit ex mollit nisi id enim nisi eiusmod nulla consequat. Et mollit incididunt ullamco voluptate non esse. Incididunt ad non nostrud non et nisi enim id sunt occaecat velit aliqua adipisicing do. Est aliqua amet nostrud eiusmod eu sunt eu cupidatat consectetur elit occaecat qui.\r\n",
+        "time": "10 hr",
+        "icon": "fa-brands fa-node-js",
+        "color": "text-amber-700",
+        "views": 42
+    },
+    {
+        "_id": "03",
+        "picture": "http://placehold.it/32x32",
+        "name": "C/C++",
+        "info": "Eiusmod cupidatat nostrud occaecat nostrud nostrud labore duis consequat veniam aute. Pariatur nostrud occaecat pariatur culpa. Minim ex minim mollit minim id anim eiusmod incididunt. Nostrud proident veniam dolor amet magna commodo. Sint et nisi excepteur consectetur ad pariatur commodo enim sint irure ullamco aliquip. Ex veniam fugiat mollit adipisicing pariatur nostrud id ex do veniam. Ex deserunt excepteur amet Lorem tempor exercitation excepteur nulla labore voluptate quis velit.\r\n",
+        "time": "10 hr",
+        "icon": "fa-solid fa-c",
+        "color": "text-red-700",
+        "views": 42
+    },
+    {
+        "_id": "04",
+        "picture": "http://placehold.it/32x32",
+        "name": "ASP .NET",
+        "info": "Dolore fugiat labore et non in proident commodo. Sit culpa ad eiusmod esse culpa enim nulla mollit qui ipsum. Consequat laboris in do amet exercitation reprehenderit aute nulla est eu aliquip. Ad pariatur occaecat reprehenderit labore nostrud aliquip in nulla nostrud pariatur irure ex. Elit deserunt dolore irure nulla duis laboris labore ad sint. Dolore tempor nisi exercitation magna labore do sit exercitation aute laboris anim irure ea aute. Amet officia duis sint aute.\r\n",
+        "time": "10 hr",
+        "icon": "fa-brands fa-codepen",
+        "color": "text-violet-700",
+        "views": 42
+    },
+    {
+        "_id": "05",
+        "picture": "http://placehold.it/32x32",
+        "name": "React Js",
+        "info": "Culpa occaecat aliqua elit tempor esse fugiat occaecat consequat officia voluptate tempor. Pariatur eiusmod laboris culpa proident minim elit enim dolor esse occaecat aliqua. Adipisicing nisi irure qui sint consectetur.\r\n",
+        "time": "10 hr",
+        "icon": "fa-brands fa-react",
+        "color": "text-sky-500",
+        "views": 42
+    },
+    {
+        "_id": "06",
+        "picture": "http://placehold.it/32x32",
+        "name": "Python",
+        "info": "Culpa occaecat aliqua elit tempor esse fugiat occaecat consequat officia voluptate tempor. Pariatur eiusmod laboris culpa proident minim elit enim dolor esse occaecat aliqua. Adipisicing nisi irure qui sint consectetur.\r\n",
+        "time": "10 hr",
+        "icon": "fa-brands fa-python",
+        "color": "text-amber-300",
+        "views": 42
+    }
+]
