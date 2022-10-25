@@ -2,61 +2,61 @@
     {
         "_id": "01",
         "picture": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2019/11/how-to-link-a-stylesheet-css-file-to-your-html-file.jpg",
-        "name": "html/CSS",
+        "name": "HTML/CSS",
         "info": "Ut consequat sunt esse nostrud irure dolore consectetur occaecat exercitation. Labore ea dolor velit cupidatat amet eu consequat est eiusmod eu. Magna dolor sit mollit deserunt ea exercitation duis Lorem sit est. Qui laboris aute occaecat nisi cillum nostrud adipisicing laboris ad occaecat ipsum ullamco voluptate eiusmod. Pariatur pariatur non dolore do magna nostrud cupidatat sint dolor enim dolore. Nisi ut officia minim ex incididunt do velit.\r\n",
-        "time": "10 hr",
-        "views": 42,
+        "time": "13 hr",
         "icon": "fa-solid fa-file-code",
-        "color": "text-sky-500"
+        "color": "text-sky-500",
+        "views": "235"
     },
     {
         "_id": "02",
         "picture": "https://cdn.geekboots.com/geek/javascript-meta-1652702081069.jpg",
         "name": "Javascript",
         "info": "Ad sunt reprehenderit ex mollit nisi id enim nisi eiusmod nulla consequat. Et mollit incididunt ullamco voluptate non esse. Incididunt ad non nostrud non et nisi enim id sunt occaecat velit aliqua adipisicing do. Est aliqua amet nostrud eiusmod eu sunt eu cupidatat consectetur elit occaecat qui.\r\n",
-        "time": "10 hr",
+        "time": "17 hr",
         "icon": "fa-brands fa-node-js",
         "color": "text-amber-700",
-        "views": 42
+        "views": "194"
     },
     {
         "_id": "03",
         "picture": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1080335/retina_1708x683_cover-0325-LearnCandC__Languages_Dan_Newsletter-743100f051077054fa1cc613ff4523a2.png",
         "name": "C/C++",
         "info": "Eiusmod cupidatat nostrud occaecat nostrud nostrud labore duis consequat veniam aute. Pariatur nostrud occaecat pariatur culpa. Minim ex minim mollit minim id anim eiusmod incididunt. Nostrud proident veniam dolor amet magna commodo. Sint et nisi excepteur consectetur ad pariatur commodo enim sint irure ullamco aliquip. Ex veniam fugiat mollit adipisicing pariatur nostrud id ex do veniam. Ex deserunt excepteur amet Lorem tempor exercitation excepteur nulla labore voluptate quis velit.\r\n",
-        "time": "10 hr",
+        "time": "23 hr",
         "icon": "fa-solid fa-c",
         "color": "text-red-700",
-        "views": 42
+        "views": "177"
     },
     {
         "_id": "04",
         "picture": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1041834/cover-asp-net-web-api-tutorial-c50d29ba46cb58d07cc69be13c078df8.png",
         "name": "ASP .NET",
         "info": "Dolore fugiat labore et non in proident commodo. Sit culpa ad eiusmod esse culpa enim nulla mollit qui ipsum. Consequat laboris in do amet exercitation reprehenderit aute nulla est eu aliquip. Ad pariatur occaecat reprehenderit labore nostrud aliquip in nulla nostrud pariatur irure ex. Elit deserunt dolore irure nulla duis laboris labore ad sint. Dolore tempor nisi exercitation magna labore do sit exercitation aute laboris anim irure ea aute. Amet officia duis sint aute.\r\n",
-        "time": "10 hr",
+        "time": "21 hr",
         "icon": "fa-brands fa-codepen",
         "color": "text-violet-700",
-        "views": 42
+        "views": "133"
     },
     {
         "_id": "05",
         "picture": "https://miro.medium.com/max/765/0*2mjB0XljeDut4JZ_",
         "name": "React Js",
         "info": "Culpa occaecat aliqua elit tempor esse fugiat occaecat consequat officia voluptate tempor. Pariatur eiusmod laboris culpa proident minim elit enim dolor esse occaecat aliqua. Adipisicing nisi irure qui sint consectetur.\r\n",
-        "time": "10 hr",
+        "time": "14 hr",
         "icon": "fa-brands fa-react",
         "color": "text-sky-500",
-        "views": 42
+        "views": "89"
     },
     {
         "_id": "06",
         "picture": "https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg",
         "name": "Python",
         "info": "Culpa occaecat aliqua elit tempor esse fugiat occaecat consequat officia voluptate tempor. Pariatur eiusmod laboris culpa proident minim elit enim dolor esse occaecat aliqua. Adipisicing nisi irure qui sint consectetur.\r\n",
-        "time": "10 hr",
+        "time": "16 hr",
         "icon": "fa-brands fa-python",
         "color": "text-amber-300",
-        "views": 42
+        "views": "294"
     }
 ]
