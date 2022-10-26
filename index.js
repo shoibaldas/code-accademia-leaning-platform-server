@@ -8,7 +8,7 @@ app.use(cors())
 const categories = require('./data/category_courses.json');
 
 app.get('/', (req, res) => {
-    res.send('News API is running');
+    res.send('Accademia API is running');
 });
 
 app.get('/category-courses', (req, res) => {
@@ -22,5 +22,5 @@ app.get('/course/:id', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log("News Agency Server is Running...", port);
+    console.log("Accademia Server is Running...", port);
 })
