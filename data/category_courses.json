@@ -10,7 +10,8 @@
         "time": "13 hr",
         "icon": "fa-solid fa-file-code",
         "color": "text-sky-500",
-        "views": "235"
+        "views": "235",
+        "taka": "2500"
     },
     {
         "_id": "02",
@@ -22,8 +23,9 @@
         "outline": "Getting started, The need for scripting, Hello world, JavaScript basics, Interacting with the user, JavaScript events, Working with forms, Working with objects, Changing HTML with JavaScript, Using the DOM, JavaScript “recipes”.",
         "time": "28 hr",
         "icon": "fa-brands fa-node-js",
-        "color": "text-amber-700",
-        "views": "194"
+        "color": "text-amber-500",
+        "views": "194",
+        "taka": "3500"
     },
     {
         "_id": "03",
@@ -36,7 +38,8 @@
         "time": "23 hr",
         "icon": "fa-solid fa-c",
         "color": "text-red-700",
-        "views": "177"
+        "views": "177",
+        "taka": "2700"
     },
     {
         "_id": "04",
@@ -48,8 +51,9 @@
         "outline": "Introduction to web technologies, Web Forms Architecture, ASP.Net and HTTP, Web application developing using Visual Studio, State Management and Web Applications, ASP.Net Server-side controls, Caching in ASP.Net, ASP.Net application configuration, Debugging, Diagnostics of application, Connectivity with Database using ADO, .Net/Entity Framework, Data Access Controls, Personalization and Security, Introduction to Web Services, Introduction to WCF.",
         "time": "21 hr",
         "icon": "fa-brands fa-codepen",
-        "color": "text-violet-700",
-        "views": "133"
+        "color": "text-green-500",
+        "views": "133",
+        "taka": "6500"
     },
     {
         "_id": "05",
@@ -62,7 +66,8 @@
         "time": "39 hr",
         "icon": "fa-brands fa-react",
         "color": "text-sky-500",
-        "views": "89"
+        "views": "89",
+        "taka": "5500"
     },
     {
         "_id": "06",
@@ -75,6 +80,7 @@
         "time": "33 hr",
         "icon": "fa-brands fa-python",
         "color": "text-amber-300",
-        "views": "294"
+        "views": "294",
+        "taka": "4900"
     }
 ]
