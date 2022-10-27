@@ -1,7 +1,7 @@
 [
     {
         "_id": "01",
-        "picture": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2019/11/how-to-link-a-stylesheet-css-file-to-your-html-file.jpg",
+        "picture": "https://media.emailonacid.com/wp-content/uploads/2022/01/HERO-1200x690.png",
         "name": "HTML/CSS",
         "info": "HTML and CSS go hand in hand for developing flexible, attractive, and user-friendly websites. HTML (Hyper Text Markup Language) is used to show content on the page whereas CSS is used for presenting the page. HTML describes the structure of a Website semantically along with presentation cues, making it a mark-up language, rather than a programming language. HTML allows images and objects to be embedded and can be used to create interactive forms.",
         "objective": "Learn HTML & CSS and pass the certification exam.",
@@ -79,7 +79,7 @@
         "outline": "An Introduction to Python, Beginning Python Basics, Python Program Flow, Functions& Modules, Exceptions Handling, File Handling, Classes In Python, Generators and iterators, Data Structures,  Collections, Writing GUIs in Python (Tkinter), Python SQL Database Access, Network Programming, Date and Time, Regular Expression, Threads ESSENTIAL, Accessing API ESSENTIAL, DJANGO.",
         "time": "33 hr",
         "icon": "fa-brands fa-python",
-        "color": "text-amber-300",
+        "color": "text-amber-500",
         "views": "294",
         "taka": "4900"
     }
